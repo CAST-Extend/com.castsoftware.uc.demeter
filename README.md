@@ -36,17 +36,17 @@ None
 - More tags and actions
 
 ## Release Notes
-### Version 2.3.0
+### Version 2.3.x
 - Module Grouping 
 - Better API allowing a connection to the Atlas Web platform
 - Undo the Level grouping
 
-### Version 2.2.0 
+### Version 2.2.x 
 - Level 5 Grouping 
 - Microservices extraction
 - Daemonized Demeter  
 
-### Version 2.0.0 
+### Version 2.0.x 
 - New knowledge base
 - DocumentIt support
 - Better report generation
