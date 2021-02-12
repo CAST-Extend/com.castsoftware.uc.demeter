@@ -36,6 +36,11 @@ None
 - More tags and actions
 
 ## Release Notes
+### Version 2.4.x : Modules & Architecture views
+- You can now create Modules and architecture view in CAST Imaging with Demeter
+- Better API for the Atlas Extensions 
+- Various stability fix 
+
 ### Version 2.3.x
 - Module Grouping 
 - Better API allowing a connection to the Atlas Web platform
